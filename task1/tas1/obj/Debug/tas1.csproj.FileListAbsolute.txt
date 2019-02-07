@@ -1,0 +1,14 @@
+C:\Users\Тогжан\source\repos\lab1\tas1\tas1\bin\Debug\tas1.exe.config
+C:\Users\Тогжан\source\repos\lab1\tas1\tas1\bin\Debug\tas1.exe
+C:\Users\Тогжан\source\repos\lab1\tas1\tas1\bin\Debug\tas1.pdb
+C:\Users\Тогжан\source\repos\lab1\tas1\tas1\obj\Debug\tas1.csprojAssemblyReference.cache
+C:\Users\Тогжан\source\repos\lab1\tas1\tas1\obj\Debug\tas1.csproj.CoreCompileInputs.cache
+C:\Users\Тогжан\source\repos\lab1\tas1\tas1\obj\Debug\tas1.exe
+C:\Users\Тогжан\source\repos\lab1\tas1\tas1\obj\Debug\tas1.pdb
+C:\Users\Тогжан\Desktop\PP2\task1\tas1\bin\Debug\tas1.exe.config
+C:\Users\Тогжан\Desktop\PP2\task1\tas1\bin\Debug\tas1.exe
+C:\Users\Тогжан\Desktop\PP2\task1\tas1\bin\Debug\tas1.pdb
+C:\Users\Тогжан\Desktop\PP2\task1\tas1\obj\Debug\tas1.csprojAssemblyReference.cache
+C:\Users\Тогжан\Desktop\PP2\task1\tas1\obj\Debug\tas1.csproj.CoreCompileInputs.cache
+C:\Users\Тогжан\Desktop\PP2\task1\tas1\obj\Debug\tas1.exe
+C:\Users\Тогжан\Desktop\PP2\task1\tas1\obj\Debug\tas1.pdb

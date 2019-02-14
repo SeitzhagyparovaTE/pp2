@@ -11,7 +11,8 @@ namespace task2._3
     {
         static void show(string path, int x)
         {
-            DirectoryInfo d = new DirectoryInfo(@path);
+            DirectoryInfo d = new DirectoryInfo(@path);//Specifying the directories i want to manipulate.
+
             FileSystemInfo[] fsi = d.GetFileSystemInfos();
             string s = new string(' ', x);
             for (int i = 0; i < fsi.Length; i++)
@@ -27,7 +28,7 @@ namespace task2._3
         }
         static void Main(string[] args)
         {
-            string s = @"C:\Users\Тогжан\Desktop\PP2";
+            string s = @"C: \Users\Тогжан\Documents\endka";
             show(s, 0);
             Console.ReadKey();
 

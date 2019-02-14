@@ -13,7 +13,8 @@ namespace task2._4
         {
             FileStream fs= File.Create(@"C:\Users\Тогжан\Desktop\PP2\task2.4\task4.txt");
             fs.Close();
-            File.Copy(@"C:\Users\Тогжан\Desktop\PP2\task2.4\task4.txt", @"C:\Users\Тогжан\Desktop\PP2\task4.12.txt");
+            File.Copy(@"C:\Users\Тогжан\Desktop\PP2\task2.4\task4.txt", @"C:\Users\Тогжан\Desktop\PP2\task4.12
+.txt");
             File.Delete(@"C:\Users\Тогжан\Desktop\PP2\task2.4\task4.txt");
         }
 

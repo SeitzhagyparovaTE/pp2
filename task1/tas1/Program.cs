@@ -32,14 +32,14 @@ namespace task1
                 string[]s = Console.ReadLine().Split();
 
 
-            int[] arr = new int[1000];
+            int[] arr = new int[1000]; // create a massiv
                 int cnt = 0;
                 for (int i = 0; i < s.Length; i++)
                 {
-                    int x = int.Parse(s[i]);
+                    int x = int.Parse(s[i]);// x is ith element
                     if (isPrime(x)) 
                     {
-                        arr[cnt++] = x;
+                        arr[cnt++] = x;// if x is prime, then counter++
                     }
                 }
                 Console.WriteLine(cnt);

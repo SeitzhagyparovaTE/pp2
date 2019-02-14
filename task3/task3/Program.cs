@@ -10,7 +10,7 @@ namespace task3
     {
             static int[] Dublicate(int[] arr)
             {
-                int[] arr2 = new int[2000];
+                int[] arr2 = new int[2000];// massiv for dublicating numbers
                 for (int i = 0; i < arr.Length; i++)
                 {
                     arr2[i * 2] = arr[i];
@@ -35,7 +35,7 @@ namespace task3
                 {
                     Console.Write(arr2[i] + " ");
                 }
-
+            Console.ReadKey();
             }
         }
 }

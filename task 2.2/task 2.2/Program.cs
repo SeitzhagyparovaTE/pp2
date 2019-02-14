@@ -25,8 +25,8 @@ namespace task_2._2
 
             static void Main(string[] args)
             {
-                FileStream fs = new FileStream(@"C:\Users\Тогжан\Desktop\PP2\task 2.2\txt.txt", System.IO.FileMode.Open, FileAccess.ReadWrite);
-                StreamReader sr = new StreamReader(fs);
+                FileStream fs = new FileStream(@"C:\Users\Тогжан\Desktop\PP2\task 2.2\txt.txt", System.IO.FileMode.Open, FileAccess.ReadWrite);// special class to write and read files
+                StreamReader sr = new StreamReader(fs); 
                 string s = sr.ReadLine();
                 string[] arr = s.Split();
                 sr.Close();

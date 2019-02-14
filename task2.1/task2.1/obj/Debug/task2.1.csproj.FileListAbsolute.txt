@@ -1,0 +1,7 @@
+C:\Users\Тогжан\Desktop\PP2\task2.1\task2.1\bin\Debug\task2.1.exe.config
+C:\Users\Тогжан\Desktop\PP2\task2.1\task2.1\bin\Debug\task2.1.exe
+C:\Users\Тогжан\Desktop\PP2\task2.1\task2.1\bin\Debug\task2.1.pdb
+C:\Users\Тогжан\Desktop\PP2\task2.1\task2.1\obj\Debug\task2.1.csprojAssemblyReference.cache
+C:\Users\Тогжан\Desktop\PP2\task2.1\task2.1\obj\Debug\task2.1.csproj.CoreCompileInputs.cache
+C:\Users\Тогжан\Desktop\PP2\task2.1\task2.1\obj\Debug\task2.1.exe
+C:\Users\Тогжан\Desktop\PP2\task2.1\task2.1\obj\Debug\task2.1.pdb

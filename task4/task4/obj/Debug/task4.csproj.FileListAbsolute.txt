@@ -1,0 +1,7 @@
+C:\Users\Тогжан\Desktop\PP2\task4\task4\bin\Debug\task4.exe.config
+C:\Users\Тогжан\Desktop\PP2\task4\task4\bin\Debug\task4.exe
+C:\Users\Тогжан\Desktop\PP2\task4\task4\bin\Debug\task4.pdb
+C:\Users\Тогжан\Desktop\PP2\task4\task4\obj\Debug\task4.csprojAssemblyReference.cache
+C:\Users\Тогжан\Desktop\PP2\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\Тогжан\Desktop\PP2\task4\task4\obj\Debug\task4.exe
+C:\Users\Тогжан\Desktop\PP2\task4\task4\obj\Debug\task4.pdb
